@@ -1,1 +1,336 @@
-{}
+{
+  "manifestVersion": 1,
+  "updatedAt": "2026-08-09T14:04:44Z",
+  "store": {},
+  "installer": {},
+  "categories": [],
+  "apps": [
+    {
+      "id": "anddea.youtube",
+      "packageName": "anddea.youtube",
+      "title": "anddea.youtube",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 1558707648,
+      "versionName": "20.51.39",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/anddea.youtube-20.51.39/ytr.apk",
+      "sha256": "8ac166f3b899e2a1b366354c8e2529155eb59c518a399ea4d0b9bc51a5ae9ef5",
+      "sizeBytes": 129828832,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "featured": false
+    },
+    {
+      "id": "app.revanced.android.apps.youtube.music",
+      "packageName": "app.revanced.android.apps.youtube.music",
+      "title": "app.revanced.android.apps.youtube.music",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 84253230,
+      "versionName": "8.42.53",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/app.revanced.android.apps.youtube.music-8.42.53/ytmr.apk",
+      "sha256": "e414ad3d41c7940079a2496f84bf0f610f04c7aefc7e2127295e0aeb5be54dde",
+      "sizeBytes": 57650985,
+      "minSdk": 0,
+      "abi": [
+        "armeabi-v7a"
+      ],
+      "featured": false
+    },
+    {
+      "id": "app.revanced.android.gms",
+      "packageName": "app.revanced.android.gms",
+      "title": "app.revanced.android.gms",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 255034004,
+      "versionName": "6.1.4",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/app.revanced.android.gms-6.1.4/microg.apk",
+      "sha256": "907b0f1d64d4bdf2fc15df596129cdf9f140f5360f557d24ff2e987c9f586f15",
+      "sizeBytes": 13393291,
+      "minSdk": 0,
+      "abi": [
+        "x86_64",
+        "alt-arm64-v8a",
+        "armeabi-v7a",
+        "x86"
+      ],
+      "featured": false
+    },
+    {
+      "id": "com.google.youtube",
+      "packageName": "com.google.youtube",
+      "title": "com.google.youtube",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/com.google.youtube-1.0/youtube.apk",
+      "sha256": "c63afda40c11e4c8035dc3e5fee70f11f2452757edff7a82180d2abe9dc8181f",
+      "sizeBytes": 439307,
+      "minSdk": 0,
+      "abi": [],
+      "featured": false
+    },
+    {
+      "id": "com.lazycatsoftware.lmd",
+      "packageName": "com.lazycatsoftware.lmd",
+      "title": "LazyMedia",
+      "summary": "Агрегатор медиаконтента",
+      "iconUrl": null,
+      "category": "media",
+      "versionCode": 3462,
+      "versionName": "3.462",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/com.lazycatsoftware.lmd-3.462/lazymedia.apk",
+      "sha256": "1d8c76b045be3ca27b046c82067471910b69ec881bde338854f7693a42c4a2b3",
+      "sizeBytes": 11149191,
+      "minSdk": 0,
+      "abi": [],
+      "featured": false
+    },
+    {
+      "id": "com.maxmpz.equalizer",
+      "packageName": "com.maxmpz.equalizer",
+      "title": "com.maxmpz.equalizer",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 1021009,
+      "versionName": "build-1021-uni",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/com.maxmpz.equalizer-build-1021-uni/pe_1021.apk",
+      "sha256": "6a80cf4cf10d1d60c06cede17f09bcc0c201dfabf2b6b79339e5128bcc7516af",
+      "sizeBytes": 18117648,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "featured": false
+    },
+    {
+      "id": "com.opera.browser",
+      "packageName": "com.opera.browser",
+      "title": "com.opera.browser",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 1909020204,
+      "versionName": "90.7.4752.84935",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/com.opera.browser-90.7.4752.84935/opera90_7.apk",
+      "sha256": "2e0e61b9ac3f672b3589362926aee3644ea13159023aa032a517c844c296cb81",
+      "sizeBytes": 162314148,
+      "minSdk": 0,
+      "abi": [
+        "armeabi-v7a"
+      ],
+      "featured": false
+    },
+    {
+      "id": "com.yandex.browser",
+      "packageName": "com.yandex.browser",
+      "title": "com.yandex.browser",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 1927038754,
+      "versionName": "26.6.1.114",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/com.yandex.browser-26.6.1.114/yb26_6.apk",
+      "sha256": "94a71604304c5b969a9f75b4b42151a33e45798a8229ee53dc2b9585697c46ba",
+      "sizeBytes": 300890939,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mobi.zona",
+      "packageName": "mobi.zona",
+      "title": "Zona",
+      "summary": "Онлайн-кинотеатр",
+      "iconUrl": null,
+      "category": "media",
+      "versionCode": 1061,
+      "versionName": "3.0.61",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/mobi.zona-3.0.61/zona.apk",
+      "sha256": "acc57a9ca1f024971a797d4ef17ab3c8df0397bb3e223354d129a607ba103d65",
+      "sizeBytes": 21402394,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "featured": false
+    },
+    {
+      "id": "org.schabi.newpipe",
+      "packageName": "org.schabi.newpipe",
+      "title": "NewPipe",
+      "summary": "YouTube без рекламы, фоновое воспроизведение",
+      "iconUrl": null,
+      "category": "media",
+      "versionCode": 1014,
+      "versionName": "0.29.0",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/org.schabi.newpipe-0.29.0/newpipe.apk",
+      "sha256": "1765284f67c09c983b025954da4f142419e93cc510f39f735700b670b04ba3ff",
+      "sizeBytes": 11507122,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "featured": true
+    },
+    {
+      "id": "org.smarttube.stable",
+      "packageName": "org.smarttube.stable",
+      "title": "SmartTube",
+      "summary": "YouTube для ТВ/магнитол без рекламы",
+      "iconUrl": null,
+      "category": "media",
+      "versionCode": 2400,
+      "versionName": "32.10",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/org.smarttube.stable-32.10/smarttube.apk",
+      "sha256": "48044b306ded06cab939e81ad53be76a9c7b44c82a29c8bcaac8c2d8687b1579",
+      "sizeBytes": 34877552,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ru.dublgis.dgismobile",
+      "packageName": "ru.dublgis.dgismobile",
+      "title": "2ГИС",
+      "summary": "Офлайн-карты и навигация",
+      "iconUrl": null,
+      "category": "nav",
+      "versionCode": 282010624,
+      "versionName": "7.26.0.624.18",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/ru.dublgis.dgismobile-7.26.0.624.18/2gis.apk",
+      "sha256": "5f7490d890b7552aadf0c73fe85ee84c7a8753ef622403ce5c2254f4efb2c0fc",
+      "sizeBytes": 311120529,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ru.vk.store",
+      "packageName": "ru.vk.store",
+      "title": "RuStore",
+      "summary": "Магазин приложений",
+      "iconUrl": null,
+      "category": "tools",
+      "versionCode": 1107003,
+      "versionName": "1.107.0.3",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/ru.vk.store-1.107.0.3/rustore.apk",
+      "sha256": "b7b030551300b23fdbeb14a96fb9ff3f8a10bb85c802558d82f66bb1e3b273ee",
+      "sizeBytes": 86894125,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ru.yandex.mobile.fmradio",
+      "packageName": "ru.yandex.mobile.fmradio",
+      "title": "ru.yandex.mobile.fmradio",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 24026341,
+      "versionName": "2026.06.4 #19rur",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/ru.yandex.mobile.fmradio-2026.06.4 #19rur/yr_2026_06_4_19.apk",
+      "sha256": "ec03b5fb0b93eb832bd2e14fbd3024dd9c4c225ca591d0e5a5c4c776e4a5230f",
+      "sizeBytes": 13326101,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ru.yandex.music",
+      "packageName": "ru.yandex.music",
+      "title": "ru.yandex.music",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 24026333,
+      "versionName": "2026.06.3 #152.2rur",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/ru.yandex.music-2026.06.3 #152.2rur/ym_2026_06_3_152_2.apk",
+      "sha256": "73ee97b6800211fc916fd6707aa30ce4361d2546e3a58e05215e612b3dbd22d1",
+      "sizeBytes": 47021883,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ru.yandex.yandexnavi",
+      "packageName": "ru.yandex.yandexnavi",
+      "title": "ru.yandex.yandexnavi",
+      "summary": "",
+      "iconUrl": null,
+      "category": null,
+      "versionCode": 736092923,
+      "versionName": "14.8.4",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/ru.yandex.yandexnavi-14.8.4/yn_14_8_4.apk",
+      "sha256": "1d7168b5ad8a14173950421abd13535346b8546ec6fb30fec07baf6b298c7e08",
+      "sizeBytes": 111515307,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a"
+      ],
+      "featured": false
+    },
+    {
+      "id": "top.rootu.lampa",
+      "packageName": "top.rootu.lampa",
+      "title": "LAMPA",
+      "summary": "Медиацентр: фильмы и сериалы",
+      "iconUrl": null,
+      "category": "media",
+      "versionCode": 560,
+      "versionName": "1.12.9",
+      "apkUrl": "https://github.com/daradan/jt_appstore/releases/download/top.rootu.lampa-1.12.9/lampa.apk",
+      "sha256": "9a854edf54c76b57b8e9f850a7a8aee409a937abafad763532673667c2dc1c62",
+      "sizeBytes": 11717162,
+      "minSdk": 0,
+      "abi": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "featured": false
+    }
+  ]
+}
